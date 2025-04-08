@@ -32,7 +32,7 @@ Jakub Sobański
 ## Test Steps
 
 1. Navigate to the login URL:  
-   `https://reception.next-dev.speeron.com/recruitment-jakub-sobanski?token=6M34foj4T45mCF2PGJv0t8ek7QWWpUN`
+   `https://reception.next-dev.speeron.com/recruitment-jakub-sobanski?token={token}`
 
 2. Wait until the page reaches a **network idle** state to ensure all dynamic resources are loaded.
 
