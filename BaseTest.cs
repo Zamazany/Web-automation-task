@@ -1,5 +1,5 @@
 ﻿using Microsoft.Playwright;
-using Speeron;
+using Base;
 
 public abstract class BaseTest
 {
