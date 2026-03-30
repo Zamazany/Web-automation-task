@@ -2,7 +2,7 @@
 using Speeron.SpeeronPage;
 
 
-namespace Speeron.Pages
+namespace Base.Pages
 {
     public partial class ThemeEditorPage(IPage page, int timeout) : SpeeronBasePage(page, timeout)
     {
