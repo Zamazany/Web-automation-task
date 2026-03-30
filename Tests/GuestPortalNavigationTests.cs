@@ -1,6 +1,6 @@
 ﻿using Speeron.Pages;
 
-namespace Speeron.SpeeronPage.Tests
+namespace Base.BasePage.Tests
 {
     [TestFixture]
     public class GuestPortalNavigationTests : BaseTest
