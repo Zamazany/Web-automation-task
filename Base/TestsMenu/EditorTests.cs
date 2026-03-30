@@ -1,6 +1,6 @@
 ﻿using Speeron.Pages;
 
-namespace Speeron.Tests
+namespace Base.Tests
 {
     [TestFixture]
     public class MenuEditorTests : BaseTest
