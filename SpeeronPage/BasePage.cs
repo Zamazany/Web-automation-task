@@ -1,8 +1,8 @@
 ﻿using Microsoft.Playwright;
 
-namespace Speeron.SpeeronPage
+namespace Base.BasePage
 {
-    public abstract class SpeeronBasePage(IPage page, int timeout)
+    public abstract class BasePage(IPage page, int timeout)
     {
         protected readonly IPage _page = page;
         protected readonly int _timeout = timeout;
