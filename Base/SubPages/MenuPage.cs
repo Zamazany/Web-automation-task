@@ -1,7 +1,7 @@
 ﻿using Microsoft.Playwright;
 using Speeron.SpeeronPage;
 
-namespace Speeron.Pages
+namespace Base.Pages
 {
     public class MenuEditorPage(IPage page, int timeout) : SpeeronBasePage(page, timeout)
     {
